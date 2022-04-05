@@ -1,0 +1,1 @@
+console.log("Konsolga qaraganingiz uchun rahmat!")
